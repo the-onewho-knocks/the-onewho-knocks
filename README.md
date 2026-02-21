@@ -6,12 +6,12 @@ Software engineer focused on building backend systems. Go is my primary language
 
 <div align="center">
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=the-onewho-knocks&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=the-onewho-knocks&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-onewho-knocks&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+# Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
