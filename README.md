@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ADD8&height=100&section=header" width="100%"/>
 <div align="center">
   
 # About Me:
@@ -15,17 +15,26 @@ Software engineer focused on building backend systems. Go is my primary language
 
 <div align="center">
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=the-onewho-knocks&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=the-onewho-knocks&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-onewho-knocks&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# GitHub Stats
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-onewho-knocks&theme=dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-onewho-knocks&theme=dark"/>
+<div align="center">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-onewho-knocks&theme=dark)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=the-onewho-knocks&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=the-onewho-knocks&theme=blue-green&hide_border=false)
+
+<br/>
+
+
+</div>
 
 # Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0d1117&height=80&section=footer" width="100%"/>
