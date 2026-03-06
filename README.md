@@ -15,7 +15,7 @@ Software engineer focused on building backend systems. Go is my primary language
 
 <div align="center">
 
-# GitHub Stats
+# GitHub Stats:
 
 <div align="center">
 
@@ -31,7 +31,7 @@ Software engineer focused on building backend systems. Go is my primary language
 
 </div>
 
-# Random Dev Quote
+# Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
