@@ -28,7 +28,7 @@ Software engineer focused on building backend systems. Go is my primary language
 
 <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=the-onewho-knocks&theme=rose_pine&hide_border=true"
-    width="100%"
+    width="90%"
 />
 
 # Random Dev Quote
