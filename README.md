@@ -14,16 +14,9 @@ Software engineer focused on building backend systems. Go is my primary language
 
 </div>
 
-# GitHub Stats
-
 <div align="center">
-
-<img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-onewho-knocks&theme=midnight_purple"
-    width="100%"
-/>
-
-<br><br>
+  
+# GitHub Stats
 
 <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=the-onewho-knocks&theme=rose_pine&hide_border=true"
@@ -42,4 +35,4 @@ Software engineer focused on building backend systems. Go is my primary language
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0d1117&height=80&section=footer" width="80%"/>
