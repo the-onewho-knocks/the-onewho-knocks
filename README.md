@@ -35,4 +35,4 @@ Software engineer focused on building backend systems. Go is my primary language
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0d1117&height=80&section=footer" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0d1117&height=80&section=footer" width="100%"/>
