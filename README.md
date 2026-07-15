@@ -4,7 +4,7 @@
 <div align="center">
   
 # About Me:
-Software engineer focused on building backend systems. Go is my primary language, but I’m language-agnostic and comfortable working across stacks. I care about clean architecture, clear APIs, databases, and system reliability, and I continuously sharpen my fundamentals through DSA and hands-on projects. Currently open to software engineering internships and early-career opportunities where I can contribute to meaningful systems and grow alongside strong engineering teams.
+Software engineer focused on building backend and AI systems. Go is my primary language, but I'm language-agnostic and comfortable working across stacks, including Python for AI/ML work. I care about clean architecture, clear APIs, databases, system reliability, and building LLM-powered systems that hold up in production. I continuously sharpen my fundamentals through DSA and hands-on projects. Currently open to software engineering and AI/ML engineering internships and early-career opportunities where I can contribute to meaningful systems and grow alongside strong engineering teams.
 </div>
 
 <div align="center">
